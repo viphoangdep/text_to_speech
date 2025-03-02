@@ -1,0 +1,17 @@
+whisper
+lang: vn
+Model : base 
+Detected language: vi                                                                                                                                                
+Này hôm nay của cậu có ổn không? Hai hai Xin chào, chống mình là Vizà thế nhỉ? Và cho mừng các cậu đã đến với trội podcast, 
+thử mắt đầu bằng những cố hỏi Vizàu. Dựa trên phương Pháp 1 Principle Thinking, Tư duyên Nguyên Bản, được đó mang lại cho 
+cậu những ngốc nhìn đa chiều về nhiều vấn đề hết nhau trong cuộc sống. Và để có một tính thần sống thức sự. Cùng chúng mình 
+để với tập podcast số này nhé.
+
+
+Model: small 
+Ngày hôm nay của cậu có ổn không? Hi hi, Xin chào chúng mình là Visa Thế Nhi và chào mừng các cậu đã đến với trội podcast 
+thường mắt đầu bằng những câu hỏi Visa. Dựa trên phương Pháp First Principle Thinking từ duyên nguyên bản, được đó mang lại 
+cho cậu những ngốc nhìn đa chiều về nhiều vấn đề khác nhau trong cuộc sống và để có một tinh thần sống thực sự. Cùng chúng mình 
+đến với tập podcast số này nhé.
+
+https://github.com/sp1007/FastSpeech2_vi/tree/master/scripts/infore -speech-to-text

@@ -1,0 +1,8 @@
+Language: vi
+
+[0.00s - 5.44s]:  Khu vực dịch vụ được dự bá là điểm sáng của nền kinh tế từ nay đến cuối năm, khi thời gian qua
+[5.44s - 10.88s]:  tăng 6,64% đóng góp đến gần một nửa tăng trưởng GDP. Nhu cầu nội địa tăng và khách quốc tế
+[10.88s - 13.68s]:  phục hồi mạnh mẽ cũng tạo ra cú hích cho tổng cầu của nền kinh tế.
+[13.68s - 20.16s]:  Du lịch Việt Nam đang lấy lại đà tăng trưởng ấn tượng, cả về doanh thu dịch vụ lưu trú,
+[20.16s - 25.00s]:  ăn uống và số lượng khách. Điều này góp phần vào mức tăng trưởng xuất siêu dịch vụ du lịch.
+[25.00s - 30.32s]:  Việt Nam cần tiếp tục nâng cao chất lượng sản phẩm và đa dạng các loại hình dịch vụ cạnh tranh với các...
