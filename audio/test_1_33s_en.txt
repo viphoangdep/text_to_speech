@@ -1,0 +1,6 @@
+Language: en
+
+[0.00s - 2.00s]:  Section 1
+[3.08s - 9.48s]:  Hello, this is Land Transport Information at Toronto Airport. How may I help you?
+[9.86s - 22.98s]:  Oh, good morning. I'm flying to Toronto Airport next week and I need to get to a town called Milton. Could you tell me how I can get there?
+[22.98s - 33.90s]:  Milton, did you say? Let me see. I think that's about 150 miles southwest of here. In fact, it's 147 miles west of here.

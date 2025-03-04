@@ -1,6 +1,6 @@
 import whisper
 import os
-from src.services.convert_file import convert_mp4_to_wav
+from convert_file import convert_mp4_to_wav
 def transcribe_audio(input_path: str, model_size: str = "medium", no_speech_threshold: float = 0.6) -> str:
     """
     Chuyển đổi âm thanh thành văn bản sử dụng mô hình Whisper và lưu kết quả vào file .txt.
@@ -31,7 +31,9 @@ def transcribe_audio(input_path: str, model_size: str = "medium", no_speech_thre
         audio=input_path,
         verbose=False,
         no_speech_threshold=no_speech_threshold,
+        # word_timestamps= True,
     )
+    print(result['text'])
 
     # Tạo tên file đầu ra (thay đuôi bằng .txt)
     output_path = f"{os.path.splitext(input_path)[0]}.txt"
@@ -46,4 +48,6 @@ def transcribe_audio(input_path: str, model_size: str = "medium", no_speech_thre
             file.write(f"[{start:.2f}s - {end:.2f}s]: {text}\n")
 
     print(f"Kết quả đã được lưu vào: {output_path}")
-    return output_path
+    return True
+
+transcribe_audio(r"audio\VN_5minutes (mp3cut.net).mp3")
